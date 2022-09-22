@@ -1,6 +1,6 @@
 # Predicting NBA All Stars
 
-![banner](https://github.com/jacquelinekclee/nba-all-stars-classifier.github.io/blob/a0d6d60530b2903e4b832ff753e18daba23bae87/all_stars_2022.png)
+![banner](/docs/assets/all_stars_2022.png)
 
 [SOURCE](https://www.nba.com/news/best-portraits-2022-nba-all-star)
 
