@@ -62,6 +62,7 @@ The main hyperparamter in KNN is of course the number of neighbors `k`. Several 
 
 Parameters tested:
 `{'clf__n_neighbors' : [19, 21, 23, 25, 27], 'clf__weights' : ['uniform','distance'], 'clf__metric' : ['minkowski','euclidean','manhattan']}`
+
 Best paramters:
 `{'clf__metric': 'minkowski', 'clf__n_neighbors': 19, 'clf__weights': 'distance'}`
 
@@ -74,6 +75,7 @@ Below is a table summarizing the recall scores:
 | 2019-2018 |          0.615 |
 | 2020-2021 |          0.741 |
 | 2021-2022 |          0.667 |
+
 The classifier was able to find a majority of each season's all stars, performing best for the 2020-21 season. 
 
 ## The Results
