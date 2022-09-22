@@ -4,7 +4,9 @@
 
 [SOURCE](https://www.nba.com/news/best-portraits-2022-nba-all-star)
 
-# [Website Version Link](https://jacquelinekclee.github.io/nba-all-stars-classifier.github.io/)
+# Links
+- [Website](https://jacquelinekclee.github.io/nba-all-stars-classifier.github.io/)
+- [Repository (with all relevant files/data)](https://github.com/jacquelinekclee/nba-all-stars-classifier.github.io)
 
 # Table of contents
 
