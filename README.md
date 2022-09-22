@@ -14,8 +14,8 @@
 - [Usage](#usage)
 - [Findings](#findings)
 - [The Results](#the-results)
-- [Legality](#legality)
 - [Source File](#source-file)
+- [Legality](#legality)
 
 ## Background
 As someone who has been playing basketball since the second grade and has been a Warriors fan since birth, the NBA and basketball in general have always held a special place in my heart. As time goes on, statistics and analytics have played an increasingly larger role in the world of basketball. With this project, and my [NBA Player Position Classifier](https://medium.com/325-sports/top-5-nba-goats-791078488f22), I wanted to use my love of basketball in developing and praciticing new Data Science skills.
