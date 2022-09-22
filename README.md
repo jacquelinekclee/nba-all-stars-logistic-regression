@@ -46,7 +46,7 @@ The training data comes from [Kaggle](https://www.kaggle.com/drgilermo/nba-playe
 
 ## Usage
 
-Please refer to the [Jupyter Notebook viewer](https://nbviewer.jupyter.org/github/jacquelinekclee/naivebayes_nba_players/blob/main/naive_bayes_nba_players.ipynb) to view all the code for the classifier. The notebook with all the data cleaning can be seen [here](). 
+Please refer to the [Jupyter Notebook Viewer](https://nbviewer.org/github/jacquelinekclee/nba-all-stars-classifier.github.io/blob/3779271415ee1cf80baaaf659555743dc93966e9/nba_all_stars_classifier.ipynb) or the [.ipynb file](https://github.com/jacquelinekclee/nba-all-stars-classifier.github.io/blob/3779271415ee1cf80baaaf659555743dc93966e9/nba_all_stars_classifier.ipynb) to view all the code for the classifier. The notebook with all the data cleaning can be seen [here](https://github.com/jacquelinekclee/nba-all-stars-classifier.github.io/blob/3779271415ee1cf80baaaf659555743dc93966e9/nba_players_data_cleaning.ipynb). 
 
 The [source file](#source-file) contains all the functions used to clean/manipulate the data and DataFrames.
 
@@ -111,7 +111,7 @@ One interesting player here is Pascal Siakam, who was voted an All Star in the 2
 [(Back to top)](#table-of-contents)
 
 ## Source File
-- [nba_players_classification.py](https://github.com/jacquelinekclee/naivebayes_nba_players/blob/main/probabilities.py)
+- [nba_players_classification.py](https://github.com/jacquelinekclee/nba-all-stars-classifier.github.io/blob/a6dd72fb58304c2a2c4c9125883913b60662731f/nba_players_classification.py)
   - Has all the functions used for mainly the data cleaning.
 
 ## Legality
