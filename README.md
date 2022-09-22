@@ -79,7 +79,7 @@ Below is a table summarizing the recall scores:
 The classifier was able to find a majority of each season's all stars, performing best for the 2020-21 season. 
 
 ## The Results
-See below for some discussion on the model's predictions. See the table linked [here]() to see a full summary of the 3 NBA seasons used in testing and the results for each player. 
+See below for some discussion on the model's predictions. See the table linked [here](/all_star_classifier_summary.csv) to see a full summary of the 3 NBA seasons used in testing and the results for each player. 
 
 ### "Properly Rated" All Stars: The True Positives
 There were only 6 players who were voted as All Stars for all 3 seasons (2018-19, 2020-21, and 2021-22) *and* were deemed "properly rated" for all 3 seasons. In this case, "properly rated" means that the all star voting seemed to match the data and the KNN model's findings.
