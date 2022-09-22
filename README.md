@@ -1,8 +1,8 @@
 # Predicting NBA All Stars
 
-![banner](https://github.com/jacquelinekclee/naivebayes_nba_players/blob/main/nba_players.jpeg)
+![banner](https://github.com/jacquelinekclee/nba-all-stars-classifier.github.io/blob/a0d6d60530b2903e4b832ff753e18daba23bae87/all_stars_2022.png)
 
-[SOURCE](https://medium.com/325-sports/top-5-nba-goats-791078488f22)
+[SOURCE](https://www.nba.com/news/best-portraits-2022-nba-all-star)
 
 # Table of contents
 
