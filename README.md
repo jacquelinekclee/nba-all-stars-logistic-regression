@@ -57,7 +57,7 @@ Since only about 5% of players in a given season are designated All Stars, a cla
 
 [(Back to top)](#table-of-contents)
 
-## Training(#training)
+## Training
 The main hyperparamter in KNN is of course the number of neighbors `k`. Several sources indicate that `n ** 2`, where $n$ is the number of instances in the sample, is a good heuristic for best `k`. Other important hyperparameters are `weights`, or how the nearest neighbors are used in determining the final prediction, and `metric`, or which distance metric KNN uses. I used Scikit's `GridSearchCV` to combine both hyperparameter tuning and training the model with cross validation to determine the final model. See below for the parameters tested and the ultimate model parameters:
 
 Parameters tested:
@@ -67,7 +67,7 @@ Best paramters:
 
 [(Back to top)](#table-of-contents)
 
-## Findings(#findings)
+## Findings
 Below is a table summarizing the recall scores:
 | Season    |   Recall Score |
 |:----------|---------------:|
@@ -76,7 +76,7 @@ Below is a table summarizing the recall scores:
 | 2021-2022 |          0.667 |
 The classifier was able to find a majority of each season's all stars, performing best for the 2020-21 season. 
 
-## The Results(#the-results)
+## The Results
 See below for some discussion on the model's predictions. See the table linked [here]() to see a full summary of the 3 NBA seasons used in testing and the results for each player. 
 
 ### "Properly Rated" All Stars: The True Positives
@@ -108,7 +108,7 @@ One interesting player here is Pascal Siakam, who was voted an All Star in the 2
 
 [(Back to top)](#table-of-contents)
 
-## Source Files
+## Source File
 - [nba_players_classification.py](https://github.com/jacquelinekclee/naivebayes_nba_players/blob/main/probabilities.py)
   - Has all the functions used for mainly the data cleaning.
 
