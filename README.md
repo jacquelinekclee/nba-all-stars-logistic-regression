@@ -74,6 +74,7 @@ Best paramters:
 
 ## Findings
 Below is a table summarizing the recall scores:
+
 | Season    |   Recall Score |
 |:----------|---------------:|
 | 2019-2018 |          0.615 |
