@@ -22,7 +22,7 @@
 - [Legality](#legality)
 
 ## Background
-As someone who has been playing basketball since the second grade and has been a Warriors fan since birth, the NBA and basketball in general have always held a special place in my heart. As time goes on, statistics and analytics have played an increasingly larger role in the world of basketball. With this project, and my [NBA Player Position Classifier](https://jacquelinekclee.github.io/nba-players-position-classifier.github.io/), I wanted to use my love of basketball in developing and praciticing new Data Science skills.
+As someone who has been playing basketball since the second grade and has been a Warriors fan since birth, the NBA and basketball in general have always held a special place in my heart. As time goes on, statistics and analytics have played an increasingly larger role in the world of basketball. With this project, and my [NBA Player Position Classifier](https://jacquelinekclee.github.io/nba-players-position-classifier/), I wanted to use my love of basketball in developing and praciticing new Data Science skills.
 
 This classifier, specifically a Logistic Regression Classifier, uses statistics from nearly 19,000 players' seasons from 1980-2017. I will then test my classifier using statistics from the 2018-19 season, the 2020-21 season (skipping the season interrupted by the pandemic), the 2021-22 season, and the most recent season, 2022-23. Given that all star voting involves non-expert (fan) voting and some level of subjectivity, hopefully the results will help reveal which players' All Star designation(s) match the data, which players were overlooked, and which players were perhaps overrated. 
 
